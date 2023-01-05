@@ -1,3 +1,4 @@
+ 
 {
     "users": [
         {
@@ -25,49 +26,25 @@
     "transactions": [
 
     ],
-    "data":[
-        {
-            "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-            },{
-                "id":2,
-                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                "book_name": "Harry Potter 4",
-                "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1499,
-                "borrowed": false
-                },{
-                    "id":3,
-                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                    "book_name": "Harry Potter 2",
-                    "author": "J. K. Rowling",
-                    "genre": "fiction",
-                    "edition": "2021",
-                    "publisher": "Bloomsbury",
-                    "cost": 1299,
-                    "borrowed": false
-                    },{
-                        "id":4,
-                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                        "book_name": "Harry Potter ",
-                        "author": "J. K. Rowling",
-                        "genre": "fiction",
-                        "edition": "2021",
-                        "publisher": "Bloomsbury",
-                        "cost": 1999,
-                        "borrowed": false
-                        }
-]
-    
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+			"type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ]  
 
 }

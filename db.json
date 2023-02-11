@@ -18,6 +18,16 @@
           "content": "Loved It!"
         }
       ]
+    },
+    {
+      "username": "Rohini Kushwaha",
+      "title": "Be patience",
+      "content": "most human lack patience when they are in a situation which is not in their side.",
+      "category": "Lifestyle",
+      "date": "2023-02-10",
+      "likes": 0,
+      "comments": [],
+      "id": 2
     }
   ],
   "users": [
@@ -29,7 +39,7 @@
       "id": 1
     }
   ],
-  "loggedinuser": [
+  "loggedInUser": [
     {
       "username": "Rohini Kushwaha",
       "avatar": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
